@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/borderTyping.png</file>
+        <file>images/semaphorGreenWhite.png</file>
+        <file>images/semaphorOffWhite.png</file>
+        <file>images/semaphorRedandyellowWhite.png</file>
+        <file>images/semaphorRedWhite.png</file>
+        <file>3.txt</file>
+        <file>images/finishTrackWhite.png</file>
+        <file>images/finishTrackBlack.png</file>
+        <file>images/semaphorBlack.png</file>
+        <file>images/speedometerArrow.png</file>
+        <file>images/speedometerBlack.png</file>
+        <file>images/speedometerPanel.png</file>
+        <file>images/speedometerPanelTop.png</file>
+        <file>images/car.png</file>
+        <file>ru.qm</file>
+    </qresource>
+</RCC>
